@@ -10,7 +10,7 @@ The app plays songs in a loop (control commands are printed into the console). A
 ## Setup instructions
 
 1. Clone the repository, install python and packages listed on the top of the main file.
-2. [Optional] Define your list of songs (or use the default one). The songs should be written in csv format delimited by semicolon*;* as follows: <songname>;<author>;priority
+2. [Optional] Define your list of songs (or use the default one). The songs should be written in csv format delimited by semicolon; as follows: \<songname\>;\<author\>;priority
 3. Rename *SAMPLE.env* file to *.env* and replace its variables with your spotify variables obtained according to the instructions: https://developer.spotify.com/documentation/web-api
 4. Run the app and enjoy
 
